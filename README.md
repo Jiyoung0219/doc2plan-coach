@@ -90,3 +90,6 @@ AI Agent 기반 서비스 프로토타입입니다.
 ### 1) 환경 설정
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
+
+
